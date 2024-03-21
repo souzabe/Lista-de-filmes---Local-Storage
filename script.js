@@ -127,3 +127,7 @@ const favoritoClicado = (eventoDeClique) => {
       }
 
 }
+
+/* 
+Função corrigida 
+*/
